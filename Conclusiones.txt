@@ -1,0 +1,5 @@
+Conclusiones 
+
+Se puede agrega cualquier ID
+No me valida nombre 
+No Valida id repetido
